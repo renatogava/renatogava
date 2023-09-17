@@ -6,17 +6,18 @@ Aqui você vai encontrar:
 - ✔ exemplos de código para você baixar
 - ✔ exercícios e projetos do curso Do Zero ao Full Stack: http://renatogava.com.br
 
-Compartilho conteúdo diários sobre programação na internet. Me siga nas redes:
+Compartilho conteúdos diários sobre programação na internet. Me siga nas redes:
 - Instagram: https://www.instagram.com/renatogava.dev/
 - YouTube: https://www.youtube.com/@renatogava
 - LinkedIn: https://www.linkedin.com/in/renatogava
-- TikTok: https://tiktok.com/@renatogava.dev/
 
 Quer aprender a programar do zero? Venha ser meu aluno no curso **do Zero ao Full Stack**
 
+- ✅ aprenda tudo o que vc precisa para iniciar: lógica de programação, frontend web, backend, banco de dados, git e muito mais
 - ✅ curso 100% prático
 - ✅ acesso vitalício
-- ✅ suporta a dúvidas 1 a 1 comigo
+- ✅ certificado de conclusão
+- ✅ suporta a dúvidas diretamente comigo
 - ✅ acesso a comunidade de alunos
 
 Acesse e saiba mais: (https://renatogava.com.br/curso-programacao-para-iniciantes/)
